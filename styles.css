@@ -1,0 +1,60 @@
+body
+{
+    background: black;
+    color: white;
+    font-family: serif;
+    font-size: larger;
+}
+
+table
+{
+    font-family: monospace;
+    font-size: larger;
+}
+
+p
+{
+    font-size: larger;
+    font-family: serif;
+}
+
+form
+{
+    font-size: larger;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.profileindent
+{
+    margin-left: 20%;
+}
+
+.certificateindent
+{
+    margin-left: 14%;
+}
+
+.employeeindent
+{
+    margin-left: -40%;
+}
+
+.puzzleindent
+{
+    font-size: larger;
+    margin-left: -170%;
+}
+
+.mono
+{
+    font-family: monospace;
+}
+
+.sans
+{
+    font-family: sans-serif;
+}
