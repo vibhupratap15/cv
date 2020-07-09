@@ -6,6 +6,11 @@ body
     font-size: larger;
 }
 
+hr
+{
+    background: grey;
+}
+
 table
 {
     font-family: monospace;
@@ -25,28 +30,8 @@ form
 
 a
 {
+    color: skyblue;
     text-decoration: none;
-}
-
-.profileindent
-{
-    margin-left: 20%;
-}
-
-.certificateindent
-{
-    margin-left: -8%;
-}
-
-.employeeindent
-{
-    margin-left: -40%;
-}
-
-.puzzleindent
-{
-    font-size: larger;
-    margin-left: 0%;
 }
 
 .mono
